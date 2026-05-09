@@ -21,6 +21,6 @@ while True:
             break
 
         else:
-            print("I didn't quite catch that.")
+            print("I didn't Quit, F**k you retard.")
 
     break
